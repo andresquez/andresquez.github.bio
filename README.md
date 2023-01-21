@@ -1,2 +1,3 @@
 # andresquez.github.bio
-Laboratorio #2 - Sistemas y Tecnologías Web
+#Subpages:
+  #- Lab#2 => Laboratorio #2 - Sistemas y Tecnologias Web
